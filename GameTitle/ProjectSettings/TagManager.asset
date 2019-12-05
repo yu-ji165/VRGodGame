@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NotesRight
+  - NotesLeft
+  - wave
+  - AudioWaveformCube
+  - PikupikuCube
+  - Item
+  - Cube
+  - Enemy
+  - Text
+  - FinishText
+  - PlayerHand
+  - HitCube
+  - PrimaryIndexTrigger
+  - SecondaryIndexTrigger
+  - PullJudg
+  - Wire
+  - left
+  - right
+  - Route
+  - BossEnemy
+  - ETarget
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - HeadDisplay
+  - Cube
+  - Route
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: HeadDisplay
+    uniqueID: 807341219
+    locked: 0

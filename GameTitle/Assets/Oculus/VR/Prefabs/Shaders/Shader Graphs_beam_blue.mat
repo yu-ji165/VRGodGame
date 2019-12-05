@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_beam_blue
+  m_Shader: {fileID: 4800000, guid: 8db2b95bd088d7840b3a6aa65d16530c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_D8F9B182:
+        m_Texture: {fileID: 2800000, guid: 4d274c028f0db19439e50ad3882f2fee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_3C1408FA: 1
+    - Vector1_69922FA7: 1
+    m_Colors:
+    - Color_314410C2: {r: 0, g: 0, b: 1, a: 0}
+    - Color_F0DA70F4: {r: 0.4070544, g: 0, b: 0.9803922, a: 0}
